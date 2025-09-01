@@ -1,0 +1,122 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "iPhone 15",
+      "price": 799.99,
+      "brand": "Apple",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Galaxy S23",
+      "price": 699.99,
+      "brand": "Samsung",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Pixel 8",
+      "price": 649.99,
+      "brand": "Google",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "OnePlus 11",
+      "price": 599.99,
+      "brand": "OnePlus",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Sony WH-1000XM5",
+      "price": 349.99,
+      "brand": "Sony",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "MacBook Air M2",
+      "price": 1199.99,
+      "brand": "Apple",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Dell XPS 13",
+      "price": 999.99,
+      "brand": "Dell",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "HP Spectre x360",
+      "price": 1099.99,
+      "brand": "HP",
+      "is_available": false
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Asus ROG Zephyrus",
+      "price": 1499.99,
+      "brand": "Asus",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Lenovo ThinkPad X1",
+      "price": 1299.99,
+      "brand": "Lenovo",
+      "is_available": true
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "AirPods Pro 2",
+      "price": 249.99,
+      "brand": "Apple",
+      "is_available": false
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Galaxy Buds 2 Pro",
+      "price": 199.99,
+      "brand": "Samsung",
+      "is_available": true
+    }
+  }
+]
